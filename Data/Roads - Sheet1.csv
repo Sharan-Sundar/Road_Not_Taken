@@ -1,0 +1,8 @@
+Village1,Village2,Length,Width,Terrain,Disaster ,Traffic
+A,B,1.5,3,0,0,10
+A,C,2,3,0,0,8
+A,D,3,3.5,0,1,6
+B,C,2.5,3,1,0,5
+C,D,1,2,1,0,7
+B,E,0.5,2,1,1,9
+C,E,1.5,2.5,0,1,3
